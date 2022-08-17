@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 /* 
- * Name: __01_Array_Init
+ * Name: _01_Array_Init
  * DESC: 일차원 배열 기본
  */
  
