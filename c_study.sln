@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Array_Flex", "05_Array_F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Array_Func1", "06_Array_Func1\06_Array_Func1.csproj", "{829E0F22-C119-4B1F-AEDE-D5C4F13B9A63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Array_Func2", "07_Array_Func2\07_Array_Func2.csproj", "{E1E39088-8748-4DC6-8369-4B981FBF0790}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{829E0F22-C119-4B1F-AEDE-D5C4F13B9A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{829E0F22-C119-4B1F-AEDE-D5C4F13B9A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{829E0F22-C119-4B1F-AEDE-D5C4F13B9A63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E39088-8748-4DC6-8369-4B981FBF0790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E39088-8748-4DC6-8369-4B981FBF0790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E39088-8748-4DC6-8369-4B981FBF0790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E39088-8748-4DC6-8369-4B981FBF0790}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
