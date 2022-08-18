@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BF17CA19-E193-4723-8BF7-24433D8411EB}</ProjectGuid>
+    <ProjectGuid>{021DB510-62D1-433E-AACE-D1E93DE5E905}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_04_Array_Multi2</RootNamespace>
-    <AssemblyName>_04_Array_Multi2</AssemblyName>
+    <AssemblyName>04_Array_Multi2</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
