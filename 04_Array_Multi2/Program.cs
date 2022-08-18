@@ -55,7 +55,7 @@ namespace _04_Array_Multi2
                 Console.Write(" " + temp);
             }
 
-            Console.WriteLine();
+            Console.WriteLine()
 
             foreach (int temp in arrMulti1)
             {
