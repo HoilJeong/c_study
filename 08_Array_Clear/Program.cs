@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 /*
- * Name: _06_Array_Func2
- * DESC: 함수 리턴값 배열 처리(CallbyRefrence)
+ * Name: _08_Array_Clear
+ * DESC: 배열 관리 함수
  */
 
 namespace _08_Array_Clear
