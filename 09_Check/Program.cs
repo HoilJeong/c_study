@@ -93,6 +93,10 @@ namespace _09_Check
                     Console.WriteLine($"총점: " + (kor[serchID] + math[serchID] + eng[serchID]));
                     Console.WriteLine($"평균: " + ((kor[serchID] + math[serchID] + eng[serchID]) / 3));
                 }
+                else
+                {
+                    Console.WriteLine("학생 아이디가 없어요.");
+                }
             }
         }
     }
