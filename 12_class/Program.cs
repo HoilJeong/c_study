@@ -29,6 +29,10 @@ namespace _12_class
         static void Main(string[] args)
         {
             AA aa = new AA();
+            //aa.num1 = 10; // 오류
+            aa.num2 = 100;
+            aa.num3 = 1000;
+
             aa.Print();
         }
     }
