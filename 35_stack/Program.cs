@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 /*
- * Name: _32_Queue
+ * Name: _35_stack
  * DESC: Stack 기본
  */
 
